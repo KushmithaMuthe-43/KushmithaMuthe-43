@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BhoomiBot** — an innovative project focused on smart agriculture automation and decision-making powered by AI.
 - 🌱 I’m currently learning **Python & AI** — including machine learning algorithms, neural networks, and real-world AI application
-- 💬 Ask me about Java, Python, backend logic, building from scratch, or how to balance tech with tradition 🧘‍♂
+- 💬 Ask me about Java, Python, backend logic, building from scratch, or how to balance tech with tradition 🧘‍♂<im
 - 📫 How to reach me: kusumithavarma0404@gmail.com and also go on linkedin www.linkedin.com/in/kushmitha-muthe-93292a358
 - ⚡ Fun fact: I treat every project like a mission—sometimes I even name my bots like they're part of the Avengers 😎
 
@@ -25,16 +25,6 @@
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushmithaMuthe-43&theme=radical" alt="GitHub Streak" />
-</p>
-
-
----
-
-## 📫 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/kushmitha-muthe-93292a358" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="kusumithavarma0404@gmail.com" target="blank"><img align="center" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]" alt="Gmail" height="30" width="40" /></a>
-</p>
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kushmitha-muthe-93292a358)  
+[![Gmail](https://img.shields.io/badge/-meghana.gubbala@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](kusumithavarma0404@gmail.com)
