@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Java developer from India</h3>
 
 - 🔭 I’m currently working on **BhoomiBot** — an innovative project focused on smart agriculture automation and decision-making powered by AI.
-- 🌱 I’m currently learning **Python & AI** — including machine learning algorithms, neural networks, and real-world AI application
-- 💬 Ask me about Java, Python, backend logic, building from scratch, or how to balance tech with tradition 🧘‍♂<img src="file:///C:/Users/Admin/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/06BF16F1F0372A63D520EAC6CF7C5AF7/WhatsApp%20Image%202025-07-23%20at%2011.33.14_38f846fe.jpg" align="right" width="300" alt="Coding Girl"/>
+- 🌱 I’m currently learning **Python & AI** — including machine learning algorithms, neural networks, and real-world AI ap<img src="[https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif]" align="right" width="300" alt="Coding Girl"/>
+plication
+- 💬 Ask me about Java, Python, backend logic, building from scratch, or how to balance tech with tradition 🧘‍♂
 - 📫 How to reach me: kusumithavarma0404@gmail.com and also go on linkedin www.linkedin.com/in/kushmitha-muthe-93292a358
 - ⚡ Fun fact: I treat every project like a mission—sometimes I even name my bots like they're part of the Avengers 😎
 
