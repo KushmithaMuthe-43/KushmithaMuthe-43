@@ -27,4 +27,4 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kushmitha-muthe-93292a358)  
-[![Gmail](https://img.shields.io/badge/-meghana.gubbala@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](kusumithavarma0404@gmail.com)
+[![Gmail](https://img.shields.io/badge/-kusumithavarma0404@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](kusumithavarma0404@gmail.com)
