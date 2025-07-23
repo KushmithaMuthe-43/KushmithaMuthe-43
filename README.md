@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushmitha Muthe</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20Developer;React%20Enthusiast;Open%20Source%20Contributor;Lifelong%20Learner" />
-</p>
-
 - 🔭 I’m currently working on **BhoomiBot** — an innovative project focused on smart agriculture automation and decision-making powered by AI.
 - 🌱 I’m currently learning **Python & AI** — including machine learning algorithms, neural networks, and real-world AI application
 - 💬 Ask me about Java, Python, backend logic, building from scratch, or how to balance tech with tradition 🧘‍♂
@@ -33,6 +29,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushmithaMuthe-43&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
